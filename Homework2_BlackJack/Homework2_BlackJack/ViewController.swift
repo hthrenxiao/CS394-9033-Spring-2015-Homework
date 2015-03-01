@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func btnStartGamePressed(sender: UIButton) {
-        if numOfPlayers.text.toInt() <= 6 && numOfPlayers.text.toInt() >= 2 && numOfDecks.text.toInt() >= 3 && numOfDecks.text.toInt() <= 8 {
+        if numOfPlayers.text.toInt() <= 6 && numOfPlayers.text.toInt() >= 2 && numOfDecks.text.toInt() >= 3 && numOfDecks.text.toInt() <= 99 {
             data.numOfPlayers = numOfPlayers.text.toInt()!
             data.numOfDecks = numOfDecks.text.toInt()!
         }
