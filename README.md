@@ -14,4 +14,4 @@
 
 # Homework 1 : BlackJack
 # Instruction: 
-1. All functions except "Split" listed in http://wizardofodds.com/games/blackjack/ have been performed.
+All functions except "Split" listed in http://wizardofodds.com/games/blackjack/ have been performed.
