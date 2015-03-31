@@ -372,10 +372,9 @@ class GameViewController: UIViewController {
     }
     
     func dealerTurn(){
-        while players[0].hands[0].sum <= 16 {
+        while players[0].hands[0].sum <= 16 && players[0].hands[0].cards.count < 5 {
             giveCards(0, num: 1)
         }
-        
         if players[0].hands[0].sum > 21 {
             players[0].hands[0].bust = true
         }
