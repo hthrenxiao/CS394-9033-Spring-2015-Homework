@@ -8,6 +8,10 @@
 4. Both dealer and players (human player and AI) could have at most 5 cards. Once you got 5 cards in your hand and they didn't bust, you will be automatically win, which is the one of the rules of BlackJack. This rule is implemented on human player and the AI, dealer will not obey this rule.
 
 # Homework 2 : BlackJack
-# Instruction: All requirements have been implemented. The maximum number of players is 6, and the maximum number of decks is 99 (The maximum number of deck should be unlimitted, however, to insure the running speed of the program, 99 is enough.)
+# Instruction: 
+1. All requirements have been implemented. 
+2. The maximum number of players is 6, and the maximum number of decks is 99 (The maximum number of deck should be unlimitted, however, to insure the running speed of the program, 99 is enough.)
+
 # Homework 1 : BlackJack
-# Instruction: All functions except "Split" listed in http://wizardofodds.com/games/blackjack/ have been performed.
+# Instruction: 
+1. All functions except "Split" listed in http://wizardofodds.com/games/blackjack/ have been performed.
