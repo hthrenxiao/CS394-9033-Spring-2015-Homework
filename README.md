@@ -1,6 +1,7 @@
 # CS394-9033-Spring-2015-Homework
 # Homework 3 : BlackJack
-# Little Modification on 03/31/2015 18:26 : add one more condition to the dealer's turn to make sure that dealer could get at most 5 cards.
+# Little Modification on 03/31/2015 18:26 : 
+add one more condition to the dealer's turn to make sure that dealer could get at most 5 cards.
 # Instruction: 
 1. Complete GUI with cards shown by images. 
 2. Autolayout implemented, which could performe normally displayed for iphone 6 & iphone 6 plus & all iPads. 
